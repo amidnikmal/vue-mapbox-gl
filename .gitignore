@@ -20,7 +20,7 @@ node_modules/
 .yarn-integrity
 
 # Build artifacts
-dist
+# dist
 
 # OS generated files
 .DS_Store
